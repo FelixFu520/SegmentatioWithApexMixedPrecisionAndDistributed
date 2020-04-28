@@ -1,5 +1,5 @@
 ## simple pytorch segmentation tutorial with apex mixed precision and distributed training
-
+https://github.com/dtrimina/pytorch_segmentation_tutorial
 #### version  
 - python 3.7.5
 - torch 1.3.0
